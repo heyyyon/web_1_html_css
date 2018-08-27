@@ -1,9 +1,10 @@
 body {
     background: url('favorite.jpg') no-repeat;
     background-size: cover;
-    color: pink;
 }
-
+h1 {
+    color:whtie;
+}
 ol {
     margin: 0px;
     padding: 0px;
@@ -22,7 +23,8 @@ ol li {
 }
 ol li a {
     display:block;
+    color:pink;
 }
 ol li a:hover {
-    background: url('concert.jpg');
+    content:url('concert.jpg');
 }
