@@ -29,6 +29,6 @@ ol li a {
     color:pink;
 }
 ol li a:hover {
-    background-color:pink;
+    background-color:#fae100;
     color:white;
 }
