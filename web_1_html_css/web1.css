@@ -9,9 +9,6 @@ ol {
     margin: 0px;
     padding: 0px;
     list-style: none;
-    width: 300px;
-    margin-left: auto;
-    margin-right: auto;
 }
 ol li {
     float: left;
