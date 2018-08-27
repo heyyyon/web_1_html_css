@@ -2,10 +2,12 @@ body {
     background: url('arashi.png') no-repeat;
     background-size: cover;
 }
-ul li {
+
+ul {
     list-style-image: url('Heart.png');
 }
-div#arashi_discription {
+
+#arashi_discription {
     height: 200px;
     width: 80%;
     background-color: yellow;
