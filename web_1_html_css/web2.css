@@ -1,0 +1,14 @@
+body {
+    background: url('arashi.png') no-repeat;
+    background-size: cover;
+}
+ul li {
+    list-style-image: url('Heart.png');
+}
+div#arashi_discription {
+    height: 200px;
+    width: 80%;
+    background-color: yellow;
+    opacity:.8 ;
+    color:black;
+}
