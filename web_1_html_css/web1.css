@@ -2,13 +2,16 @@ body {
     background: url('favorite.jpg') no-repeat;
     background-size: cover;
 }
-h1 {
+body h1 {
     color:whtie;
 }
 ol {
     margin: 0px;
     padding: 0px;
     list-style: none;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
 }
 ol li {
     float: left;
