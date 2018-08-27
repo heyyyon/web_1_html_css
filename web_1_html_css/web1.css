@@ -29,5 +29,6 @@ ol li a {
     color:pink;
 }
 ol li a:hover {
-    content:url('test.png');
+    background-color:pink;
+    color:white;
 }
